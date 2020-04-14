@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://quirky-brown-a72c57.netlify.com/]()
+* Link to the website deployed on Netlify : [Link](https://quirky-brown-a72c57.netlify.com/)
